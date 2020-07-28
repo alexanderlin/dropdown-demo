@@ -1,0 +1,6 @@
+/*This overrides default CSS of page. Ususally good to do this so you're working on a completely blank canvas when creating webpage.*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

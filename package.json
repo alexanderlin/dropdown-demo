@@ -1,0 +1,19 @@
+{
+  "name": "dropdown-demo",
+  "version": "1.0.0",
+  "description": "webpage with 2 select html elements. The list of options in each list is dependant on the selected value of the other list. HTML,JavaScript,Express,MySQL ",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Alexander Lin",
+  "license": "ISC"
+}
